@@ -14,7 +14,7 @@
 - A passionate and dedicated full stack web developer
 - A hardworking and an optimistic person who always focus on being productive.
 - Bechelor of Science in Textile Engineering
-- My [Portfolio](https://www.0xabdulkhalid.ml)
+- My [Portfolio](https://portfolio-mahadi.web.app/)
 - I’m currently open for an Intern or a new job opportunity
 
 <br><br>
@@ -26,14 +26,14 @@
 
 <p align="center">
 
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
+<img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/images/icons/HTML.png"/>
+<img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/images/icons/css.png"/>
+<img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/images/icons/JavaScript.png"/>
+<img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/images/icons/react.png"/>
+<img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/images/icons/tailwind.png"/>
+<img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/images/icons/Bootsrap.png"/>
+<img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/images/icons/node.png"/>
+<img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/images/icons/express.png"/>
 </p><br/>
 
 
