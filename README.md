@@ -6,9 +6,9 @@
 </p>
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/sparkmahadi/sparkmahadi/blob/main/gifs/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/sparkmahadi/sparkmahadi/blob/main/gifs/Right_Side.gif" width = 250px></picture>
 
 
 - A passionate and dedicated full stack web developer
@@ -42,7 +42,7 @@
 -----
 
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/gifs/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
