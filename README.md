@@ -32,21 +32,21 @@
 <img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/images/icons/react.png"/>
 <img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/images/icons/tailwind.png"/>
 <img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/images/icons/Bootsrap.png"/>
+ <img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/images/icons/chakraui.png"/>
+ <img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/images/icons/mui.png"/>
+ <img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/images/icons/firebase.png"/>
 <img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/images/icons/node.png"/>
 <img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/images/icons/express.png"/>
 
- <img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/images/icons/axios.png"/>
- <img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/images/icons/chakraui.png"/>
- <img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/images/icons/chrome.png"/>
- <img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/images/icons/figma.png"/>
- <img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/images/icons/firebase.png"/>
- <img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/images/icons/github.png"/>
  <img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/images/icons/jwt.png"/>
+ <img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/images/icons/axios.png"/>
  <img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/images/icons/mongodb.png"/>
  <img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/images/icons/mongoose.png"/>
- <img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/images/icons/mui.png"/>
- <img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/images/icons/netlify.png"/>
+ <img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/images/icons/github.png"/>
+ <img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/images/icons/chrome.png"/>
+ <img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/images/icons/figma.png"/>
  <img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/images/icons/npm.png"/>
+ <img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/images/icons/netlify.png"/>
  <img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/images/icons/photoshop.png"/>
 
 </p><br/>
