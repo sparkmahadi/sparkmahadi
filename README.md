@@ -49,6 +49,13 @@
  <img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/images/icons/netlify.png"/>
  <img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/images/icons/photoshop.png"/>
 
+ <img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/images/icons/reactbootstrap.png"/>
+ <img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/images/icons/redux.png"/>
+ <img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/images/icons/socketio.png"/>
+ <img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/images/icons/vercel.png"/>
+ <img src="https://github.com/sparkmahadi/sparkmahadi/blob/main/images/icons/vscode.png"/>
+
+
 </p><br/>
 
 
